@@ -1,0 +1,3 @@
+C:/Users/HI-TECH/CLionProjects/Markov/cmake-build-debug/CMakeFiles/Markov.dir
+C:/Users/HI-TECH/CLionProjects/Markov/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/HI-TECH/CLionProjects/Markov/cmake-build-debug/CMakeFiles/rebuild_cache.dir
